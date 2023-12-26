@@ -1,0 +1,10 @@
+C:\Users\Nullptr\Desktop\Fractal-Generator-master\FractalGenerator\bin\Debug\FractalGenerator.exe.config
+C:\Users\Nullptr\Desktop\Fractal-Generator-master\FractalGenerator\bin\Debug\FractalGenerator.exe
+C:\Users\Nullptr\Desktop\Fractal-Generator-master\FractalGenerator\bin\Debug\FractalGenerator.pdb
+C:\Users\Nullptr\Desktop\Fractal-Generator-master\FractalGenerator\obj\Debug\FractalGenerator.csproj.AssemblyReference.cache
+C:\Users\Nullptr\Desktop\Fractal-Generator-master\FractalGenerator\obj\Debug\FractalGenerator.Form1.resources
+C:\Users\Nullptr\Desktop\Fractal-Generator-master\FractalGenerator\obj\Debug\FractalGenerator.Properties.Resources.resources
+C:\Users\Nullptr\Desktop\Fractal-Generator-master\FractalGenerator\obj\Debug\FractalGenerator.csproj.GenerateResource.cache
+C:\Users\Nullptr\Desktop\Fractal-Generator-master\FractalGenerator\obj\Debug\FractalGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Nullptr\Desktop\Fractal-Generator-master\FractalGenerator\obj\Debug\FractalGenerator.exe
+C:\Users\Nullptr\Desktop\Fractal-Generator-master\FractalGenerator\obj\Debug\FractalGenerator.pdb
